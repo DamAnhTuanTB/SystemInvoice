@@ -20,6 +20,13 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 # Bản báo cáo 
 > Document Bussiness + Document Invoice
 ## Công nghệ sử dụng
- Vue cơ bản
- HTML, CSS, Javascipt
- Bootstrap 4
+ * Vue cơ bản
+ * HTML, CSS, Javascipt
+ * Bootstrap 4
+## Ưu điểm
+ * Đủ chức năng
+ * Giao diện ổn
+## Nhược điểm
+ * Task được giao nhiều text
+ * Clean code chưa tốt vì chưa được tìm hiểu nhiều + chưa có code mẫu
+ 
