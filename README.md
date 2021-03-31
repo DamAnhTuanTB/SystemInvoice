@@ -1,4 +1,4 @@
-# vue-press
+# VUE CLI Version 2.9.6
 
 > A Vue.js project
 
